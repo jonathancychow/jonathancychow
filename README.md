@@ -11,12 +11,14 @@ I'm a tech enthusiast and educator, have a background in Mechancial Engineering 
 
 Feel at home in Python and MATLAB / Simulink, have working knowledge with JavaScript, C and C++. 
 
-🔭 I recently workrf on:
+
+🔭 I recently worked on:
 - [Cycling Simulation](http://cycle.us-east-2.elasticbeanstalk.com/) 
 - [Covid-19 Dashboard](https://covid19-uk-surrey.herokuapp.com/)
 - [Monte Carlo Simulation for Estimating Pi](https://mybinder.org/v2/gh/jonathancychow/Monte_Carlo_Simulation_for_Estimating_pi/master?filepath=src%2Festimate_pi_notebook.ipynb)
 
-
+🤔 I’m working on
+- [Countdown Clock](https://github.com/jonathancychow/countdown)
 
 🌱 I’m currently learning: 
 - AWS
