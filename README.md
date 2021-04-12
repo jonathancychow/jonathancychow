@@ -11,14 +11,19 @@ I'm a tech enthusiast and educator, have a background in Mechancial Engineering 
 
 Feel at home in Python and MATLAB / Simulink, have working knowledge with JavaScript, C and C++. 
 
-📫 How to reach me: 
-- [email](jonathan@cychow.co.uk)
-- [linkedin](https://www.linkedin.com/in/jonathan-chow-b370b276/)
+🔭 I recently workrf on:
+- [Cycling Simulation](http://cycle.us-east-2.elasticbeanstalk.com/) 
+- [Covid-19 Dashboard](https://covid19-uk-surrey.herokuapp.com/)
+- [Monte Carlo Simulation for Estimating_pi](https://mybinder.org/v2/gh/jonathancychow/Monte_Carlo_Simulation_for_Estimating_pi/master?filepath=src%2Festimate_pi_notebook.ipynb)
+
+
 
 🌱 I’m currently learning: 
 - AWS
 - serverless application 
 - upskilling on JavaScript and Html
+
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathancychow&show_icons=true&theme=vue)
 
 <!--
 **jonathancychow/jonathancychow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
