@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align='center'>
+<a href="mailto:jonathan@cychow.co.uk"><img height="30" src="https://github.com/jonathancychow/jonathancychow/blob/main/icon/gmail.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/jonathan-chow-b370b276/"><img height="30" src="https://github.com/jonathancychow/jonathancychow/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
+
+
 I'm a tech enthusiast and educator, have a background in Mechancial Engineering and Motorsport. 
 
 Feel at home in Python and MATLAB / Simulink, have working knowledge with JavaScript, C and C++. 
