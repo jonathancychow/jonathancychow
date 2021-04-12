@@ -2,7 +2,7 @@
 
 I'm a tech enthusiast and an educator, have a background in Mechancial Engineering and Motorsport. Feel at home in Python, have working knowledge with JavaScript, C and C++. 
 
-📫 How to reach me: (email)[jonathan@cychow.co.uk], (linkedin)[https://www.linkedin.com/in/jonathan-chow-b370b276/]
+📫 How to reach me: (email) [jonathan@cychow.co.uk], (linkedin) [https://www.linkedin.com/in/jonathan-chow-b370b276/]
 
 <!--
 **jonathancychow/jonathancychow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
