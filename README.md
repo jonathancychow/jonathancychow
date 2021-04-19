@@ -1,8 +1,15 @@
 ### Hi there 👋
 
 <p align='center'>
-<a href="mailto:jonathan@cychow.co.uk"><img height="30" src="https://github.com/jonathancychow/jonathancychow/blob/main/icon/gmail.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/jonathan-chow-b370b276/"><img height="30" src="https://github.com/jonathancychow/jonathancychow/blob/main/icon/linkedin.png?raw=true"></a>
+    <a href="mailto:jonathan@cychow.co.uk">
+    <img height="30" src="https://github.com/jonathancychow/jonathancychow/blob/main/icon/gmail.png?raw=true">
+    </a>
+    <a href="https://www.linkedin.com/in/jonathan-chow-b370b276/">
+    <img height="30" src="https://github.com/jonathancychow/jonathancychow/blob/main/icon/linkedin.png?raw=true">
+    </a>
+    <a href="https://stackoverflow.com/users/13783048/jonathan-chow">
+    <img height="30" src="https://github.com/jonathancychow/jonathancychow/blob/main/icon/stackoverflow.png?raw=true">
+    </a>
 </p>
 
 
@@ -24,6 +31,9 @@ Feel at home in Python and MATLAB / Simulink, have working knowledge with JavaSc
 - AWS
 - serverless application 
 - upskilling on JavaScript and Html
+
+:book: I find those readings inspiring:
+ - [High Performance Python](https://learning.oreilly.com/library/view/high-performance-python/9781492055013/) 
 
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathancychow&show_icons=true&theme=vue)
 
