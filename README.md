@@ -32,8 +32,12 @@ Feel at home in Python and MATLAB / Simulink, have working knowledge with JavaSc
 - serverless application 
 - upskilling on JavaScript and Html
 
-:book: I find those readings inspiring:
+:book: I find the following books and papers inspiring:
  - [High Performance Python](https://learning.oreilly.com/library/view/high-performance-python/9781492055013/) 
+ - [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/)
+ - [Kafka: The Definitive Guide](https://learning.oreilly.com/library/view/kafka-the-definitive/9781491936153/)
+ - [A clipped-optimal control algorithm for semi-active vehicle suspensions: Theory and experimental evaluation](https://www.sciencedirect.com/science/article/pii/S0005109814006050)  
+ - [Tire and Vehicle Dynamics](https://learning.oreilly.com/library/view/tire-and-vehicle/9780080970165/)
 
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathancychow&show_icons=true&theme=vue)
 
