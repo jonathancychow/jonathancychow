@@ -23,14 +23,16 @@ Feel at home in Python and MATLAB / Simulink, have working knowledge with JavaSc
 - [Cycling Simulation](http://cycle.us-east-2.elasticbeanstalk.com/) 
 - [Covid-19 Dashboard](https://covid19-uk-surrey.herokuapp.com/)
 - [Monte Carlo Simulation for Estimating Pi](https://mybinder.org/v2/gh/jonathancychow/Monte_Carlo_Simulation_for_Estimating_pi/master?filepath=src%2Festimate_pi_notebook.ipynb)
-
-🤔 I’m working on
 - [Countdown Clock](https://github.com/jonathancychow/countdown)
 
+🤔 I’m working on
+- [Real Time Translation](https://github.com/jonathancychow/realtime-translation)
+
 🌱 I’m currently learning: 
+- [Design Pattern](https://www.toptal.com/python/python-design-patterns)
 - AWS
 - serverless application 
-- upskilling on JavaScript and Html
+- JavaScript and Html
 
 :book: I find the following books and papers inspiring:
  - [High Performance Python](https://learning.oreilly.com/library/view/high-performance-python/9781492055013/) 
